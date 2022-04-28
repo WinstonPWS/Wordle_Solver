@@ -1,2 +1,2 @@
-# Wordle_Solver
+# Wordle Solver
 Wordle Solver built with Python
