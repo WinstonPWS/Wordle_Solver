@@ -1,0 +1,15 @@
+Wordle word list:
+https://github.com/Kinkelin/WordleCompetition/tree/main/data/official
+Author: Kinkelin
+
+Word frequency list:
+https://www.kaggle.com/rtatman/english-word-frequency?select=unigram_freq.csv
+Author: Rachael Tatman
+
+Name list:
+https://github.com/hadley/data-baby-names/blob/master/baby-names.csv
+Author: Hadley
+
+Name list 2:
+https://github.com/smashew/NameDatabases/blob/master/NamesDatabases/first%20names/us.txt
+Author: Erik Norvelle
