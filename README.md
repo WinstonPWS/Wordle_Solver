@@ -8,6 +8,8 @@
 
 •	Used simulations to evaluate solver performance
 
+<br/>
+
 **Key Concepts**: Information Gain, ML Classification, Word Lemmatization, Simulation
 
 <br/>
