@@ -1,10 +1,18 @@
 # Wordle Solver
 
-I recreated Wordle game using Python, and built a solver using ML that can find 98% of the answers using 4 attempts on average.
+**Summary**: 
 
-Key Concepts: Information Gain, ML Classification, Word Lemmatization, Simulation
+•	Recreated Wordle game using Python
 
-Check my blog for more details:
+•	Built a solver using Information Gain Theory and ML, which can find 98% of the answers using 4 attempts on average
+
+•	Used simulations to evaluate solver performance
+
+**Key Concepts**: Information Gain, ML Classification, Word Lemmatization, Simulation
+
+<br/>
+
+**More details on my blog**:
 
 https://winstonpws.wordpress.com/2022/04/28/wordle-solver-1-0/
 
